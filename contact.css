@@ -71,6 +71,9 @@ div {
     background-image: url(Chrisvrachtwagen.jpg);
     background-repeat: auto;
 }
+#Wendy {
+    color: black;
+}
 table {
     margin-top: 200px;
     margin-bottom: 200px;
